@@ -34,7 +34,7 @@
 				<configuration>
 					<archive>
 						<manifestEntries>
-							<program-class>net.aimeizi.sqoop.tutorial.Job</program-class>
+							<program-class>net.aimeizi.sqoop.tutorial.SqoopTutorial</program-class>
 						</manifestEntries>
 					</archive>
 				</configuration>
